@@ -18,8 +18,5 @@ public class ToDoModelTests
 
         //Assert
         Assert.Equal("Complete Azure Pipeline", testToDo.Name);
-
-
     }
-
 }
